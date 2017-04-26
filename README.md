@@ -1,6 +1,6 @@
 # npmdoc-grunt-rev
 
-#### api documentation for  [grunt-rev (v0.1.0)](https://github.com/cbas/grunt-rev)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-rev.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-rev) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-rev.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-rev)
+#### basic api documentation for  [grunt-rev (v0.1.0)](https://github.com/cbas/grunt-rev)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-rev.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-rev) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-rev.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-rev)
 
 #### Static file asset revisioning through content hashing
 
@@ -71,7 +71,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "bin": {}
 }
 ```
 
